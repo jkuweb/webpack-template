@@ -1,5 +1,5 @@
  <h1 align="center">
-🔧 Eslint - Prettier - Stylelint 🔦   </h1>
+🔧 WEBPACK  Eslint - Prettier - Stylelint 🔦   </h1>
 
 <p align="center">
   ⚡ Template config linters for React apps with TypeScript
@@ -8,17 +8,9 @@
 
 ## 👾Content👾
 
-     "eslint": "^8.57.0"
-     "prettier": "3.3.3"
-     "stylelint": "^16.7.0"
-     "stylelint-config-clean-order": "^6.1.0"
-     "husky": "^9.1.3",
-     "lint-staged": "^15.2.7",
-     "npm-run-all": "^4.1.5",
-     "commitlint/config-conventional": "^19.2.2"
-     "@commitlint/config-conventional": "^19.2.2",
-     "@commitlint/cz-commitlint": "^19.2.0",
-     "@commitlint/format": "^19.3.0",
+    	 "react@18.3.1"
+    	 "react-dom@18.3.1"
+    	 "sass@1.77.8"
 
 ## 🍓Husky🍓
 
